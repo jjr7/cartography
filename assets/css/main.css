@@ -1604,7 +1604,7 @@
 	}
 
 	header p {
-		color: rgba(000, 000, 000, 0.35);
+		color: rgba(000, 000, 000, 0.85);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
